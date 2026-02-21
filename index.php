@@ -793,11 +793,9 @@
             if (value.length === 10 && value.startsWith('9')) {
                 input.classList.remove("input-error");
                 input.classList.add("border-green-500");
-
-            } else if (value.length > 0) {
-                input.classList.add("input-error");
             } else {
                 input.classList.remove("input-error");
+                input.classList.remove("border-green-500");
             }
         }
 
@@ -2049,13 +2047,9 @@
             }
 
             // Live input validation
-            [nameInput, locationInput, descInput, phoneInput].forEach(input => {
+            [nameInput, locationInput, descInput].forEach(input => {
                 input.addEventListener('input', () => {
-                    if (input === phoneInput) {
-                        !/^(\+977)?9\d{9}$/.test(input.value.trim()) ? showError(input, 'Invalid Nepali phone number') : clearError(input);
-                    } else {
-                        input.value.trim() === '' ? showError(input, 'This field is required') : clearError(input);
-                    }
+                    input.value.trim() === '' ? showError(input, 'This field is required') : clearError(input);
                 });
             });
 
