@@ -107,7 +107,7 @@
                             </div>
                             <div class="ml-4">
                                 <h4 class="font-semibold text-gray-800">Address</h4>
-                                <p class="text-gray-600">City, Province, Country</p>
+                                <p class="text-gray-600">Kathmandu, Nepal</p>
                             </div>
                         </div>
                         <div class="flex items-start">
@@ -133,16 +133,16 @@
                     <div class="mt-8">
                         <h4 class="font-semibold text-gray-800 mb-4">Follow Us</h4>
                         <div class="flex space-x-4">
-                            <a href="#" class="w-10 h-10 bg-purple-100 rounded-full flex items-center justify-center text-purple-600 hover:bg-purple-600 hover:text-white transition">
+                            <a target="_blank" href="https://www.facebook.com/share/1DJKYkUuh3/" class="w-10 h-10 bg-purple-100 rounded-full flex items-center justify-center text-purple-600 hover:bg-purple-600 hover:text-white transition">
                                 <i class="fab fa-facebook"></i>
                             </a>
-                            <a href="#" class="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 hover:bg-blue-600 hover:text-white transition">
+                            <a target="_blank" href="https://x.com/" class="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 hover:bg-blue-600 hover:text-white transition">
                                 <i class="fab fa-twitter"></i>
                             </a>
-                            <a href="#" class="w-10 h-10 bg-pink-100 rounded-full flex items-center justify-center text-pink-600 hover:bg-pink-600 hover:text-white transition">
+                            <a target="_blank" href="https://www.instagram.com/soni_yathapa18" class="w-10 h-10 bg-pink-100 rounded-full flex items-center justify-center text-pink-600 hover:bg-pink-600 hover:text-white transition">
                                 <i class="fab fa-instagram"></i>
                             </a>
-                            <a href="#" class="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center text-blue-700 hover:bg-blue-700 hover:text-white transition">
+                            <a target="_blank" href="https://www.linkedin.com/feed/" class="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center text-blue-700 hover:bg-blue-700 hover:text-white transition">
                                 <i class="fab fa-linkedin"></i>
                             </a>
                         </div>
