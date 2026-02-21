@@ -125,7 +125,7 @@
                             </div>
                             <div class="ml-4">
                                 <h4 class="font-semibold text-gray-800">Phone</h4>
-                                <p class="text-gray-600">9800000000</p>
+                                <p class="text-gray-600">9761791235</p>
                             </div>
                         </div>
                     </div>
