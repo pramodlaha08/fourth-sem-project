@@ -193,10 +193,10 @@
                     </div>
                     <p class="text-gray-400">Helping people reunite with their lost belongings since 2026.</p>
                     <div class="flex space-x-4 mt-4">
-                        <a href="#" class="text-gray-400 hover:text-purple-400 transition"><i class="fab fa-facebook text-xl"></i></a>
-                        <a href="#" class="text-gray-400 hover:text-purple-400 transition"><i class="fab fa-twitter text-xl"></i></a>
-                        <a href="#" class="text-gray-400 hover:text-purple-400 transition"><i class="fab fa-instagram text-xl"></i></a>
-                        <a href="#" class="text-gray-400 hover:text-purple-400 transition"><i class="fab fa-linkedin text-xl"></i></a>
+                        <a target="_blank" href="https://www.facebook.com/share/1DJKYkUuh3/" class="text-gray-400 hover:text-purple-400 transition"><i class="fab fa-facebook text-xl"></i></a>
+                        <a target="_blank" href="https://x.com/" class="text-gray-400 hover:text-purple-400 transition"><i class="fab fa-twitter text-xl"></i></a>
+                        <a target="_blank" href="https://www.instagram.com/soni_yathapa18" class="text-gray-400 hover:text-purple-400 transition"><i class="fab fa-instagram text-xl"></i></a>
+                        <a target="_blank" href="https://www.linkedin.com/feed/" class="text-gray-400 hover:text-purple-400 transition"><i class="fab fa-linkedin text-xl"></i></a>
                     </div>
                 </div>
                 <div>
